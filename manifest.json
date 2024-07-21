@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Just Dash",
+  "version": "0.1",
+  "description": "A personalized new tab page extension, built with Svelte.",
+  "permissions": ["storage", "activeTab", "geolocation"],
+  "chrome_url_overrides": {
+    "newtab": "dist/index.html"
+  }
+}
