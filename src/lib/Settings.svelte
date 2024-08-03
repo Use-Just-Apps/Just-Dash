@@ -19,7 +19,7 @@
       <Gear />
     </Button>
   </Dialog.Trigger>
-  <Dialog.Content class="w-fit bg-gray-950 text-white">
+  <Dialog.Content class="w-fit bg-zinc-950 text-white">
     <Dialog.Header>
       <Dialog.Title>Settings</Dialog.Title>
       <Dialog.Description>
@@ -27,13 +27,13 @@
       </Dialog.Description>
     </Dialog.Header>
     <Tabs.Root value="settings" class="w-full">
-      <Tabs.List class="grid w-full grid-cols-1 bg-gray-900">
-        <Tabs.Trigger value="settings" class="bg-gray-900">
+      <Tabs.List class="grid w-full grid-cols-1 bg-zinc-900">
+        <Tabs.Trigger value="settings" class="bg-zinc-900">
           Settings
         </Tabs.Trigger>
       </Tabs.List>
       <Tabs.Content value="settings">
-        <Card.Root class="bg-gray-950 text-white">
+        <Card.Root class="bg-zinc-950 text-white">
           <Card.Content class="space-y-2 py-1 h-fit">
             <div class="space-y-1 pb-2">
               <Label for="name">Time Format</Label>

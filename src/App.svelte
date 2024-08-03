@@ -10,7 +10,7 @@
 </script>
 
 <main
-  class="h-screen w-full bg-gray-950 max-h-screen text-white"
+  class="h-screen w-full bg-zinc-950 max-h-screen text-white"
   style="background-image: url(https://images.unsplash.com/photo-1460551204960-763bc82b7d8f?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);background-size: cover;"
 >
   <div class="h-1/6">
